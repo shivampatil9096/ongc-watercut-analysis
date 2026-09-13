@@ -47,3 +47,9 @@ modeling, interactive visuals)
 
 ![ONGC Watercut Dashboard(mumbai_high)](MUM_HIGH.png)
 ![ONGC Watercut Dashboard(uran_heera)](URAN_HEERA.png)
+
+
+## Explore the code
+- [SQL queries](ONGC_Watercut_SQL_Scripts.sql)
+- [Excel workbook](ONGC_Watercut_PowerBI_Model.xlsx)
+
