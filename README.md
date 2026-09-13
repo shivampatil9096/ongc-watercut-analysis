@@ -1,4 +1,5 @@
 # ongc-watercut-analysis[Intern_Proj]
+![banner](dashboard_cover_banner.png)
 
 End-to-end analysis of daily watercut (%) readings across 12 offshore production assets in ONGC's
 Mumbai High Complex and Heera-Uran Complex — 786 daily readings per asset, 9,432 rows total,
