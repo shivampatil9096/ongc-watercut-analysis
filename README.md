@@ -44,5 +44,5 @@ modeling, interactive visuals)
 
 [View the live interactive dashboard](https://app.powerbi.com/groups/me/reports/c50d6f69-a15b-4e39-839b-76f8c1bdba55/c8c8413103c9e8c5d6c1?experience=power-bi&clientSideAuth=0)
 
-[ONGC Watercut Dashboard(mumbai_high)](MUM_HIGH.png)
-[ONGC Watercut Dashboard(uran_heera)](URAN_HEERA.png)
+![ONGC Watercut Dashboard(mumbai_high)](MUM_HIGH.png)
+![ONGC Watercut Dashboard(uran_heera)](URAN_HEERA.png)
