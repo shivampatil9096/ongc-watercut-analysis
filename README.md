@@ -42,27 +42,27 @@ are clearly flagged in their own columns so nothing is presented as raw plant da
 
 ### 1. Row Count Validation
 
-![Query 1 result](screenshots/sql/query1_row_count_validation.png)
+![Query 1 result](query1_row_count_validation.png)
 
 ### 2. Month-over-Month Watercut Trend
 
-![Query 2 result](screenshots/sql/query2_mom_watercut_trend.png)
+![Query 2 result](query2_mom_watercut_trend.png)
 
 ### 3. Water-Oil Ratio (WOR)
 
-![Query 3 result](screenshots/sql/query3_water_oil_ratio.png)
+![Query 3 result](query3_water_oil_ratio.png)
 
 ### 4. Oil Rate Decline % (Month-over-Month)
 
-![Query 4 result](screenshots/sql/query4_oil_rate_decline.png)
+![Query 4 result](query4_oil_rate_decline.png)
 
 ### 5. Risk Flag: Watercut > 70%
 
-![Query 5 result](screenshots/sql/query5_risk_flag_watercut70.png)
+![Query 5 result](query5_risk_flag_watercut70.png)
 
 ### 6. Asset Ranking (Join + Window Function)
 
-![Query 6 result](screenshots/sql/query6_asset_ranking.png)
+![Query 6 result](query6_asset_ranking.png)
 
 ## Tech stack
 
