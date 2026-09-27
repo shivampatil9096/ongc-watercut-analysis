@@ -36,6 +36,34 @@ are clearly flagged in their own columns so nothing is presented as raw plant da
 | `Oil_Rate_BOPD` | Synthetic — modeled decline curve, since the raw extract had no oil-rate column |
 | Watercut values on 2 assets, last ~9 months (`Watercut_Adjusted = 'Yes'`) | Synthetic — a modeled late-life breakthrough scenario, added so risk-flagging logic had real cases to catch |
 
+
+## 🗄️ SQL Queries & Results
+
+
+### 1. Row Count Validation
+
+![Query 1 result](screenshots/sql/query1_row_count_validation.png)
+
+### 2. Month-over-Month Watercut Trend
+
+![Query 2 result](screenshots/sql/query2_mom_watercut_trend.png)
+
+### 3. Water-Oil Ratio (WOR)
+
+![Query 3 result](screenshots/sql/query3_water_oil_ratio.png)
+
+### 4. Oil Rate Decline % (Month-over-Month)
+
+![Query 4 result](screenshots/sql/query4_oil_rate_decline.png)
+
+### 5. Risk Flag: Watercut > 70%
+
+![Query 5 result](screenshots/sql/query5_risk_flag_watercut70.png)
+
+### 6. Asset Ranking (Join + Window Function)
+
+![Query 6 result](screenshots/sql/query6_asset_ranking.png)
+
 ## Tech stack
 
 `PostgreSQL` / `SQL Server` · `Excel` (formulas, star schema) · `Power BI Desktop` (DAX, data
